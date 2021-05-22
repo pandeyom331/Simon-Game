@@ -1,6 +1,6 @@
 <h1>TITLE--Dice-Game</h1>
 <a href="https://pandeyom331.github.io/Simon-Game/">Simon-Game</a>
-Created using HTML5, CSS3 and JavaScript.
+Created using HTML5, CSS3, jQuery and JavaScript.
          
 <h1> FEATURES -- </h2>
          
